@@ -4,11 +4,11 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+62 822-8721-9167'],
-  ['+62 895-6121-53565'],
-  ['+62 822-8721-9167', 'Papah-Chan', true],
-  ['+62 895-6121-53565', 'Johannes', true],
-  ['+687 86.94.15', 'Johannes2', true]
+  ['6285172446692'],
+  ['6281255466600'],
+  ['6285172446692', '𝙻𝙴𝚅𝙸-𝙶𝙰𝙽𝚉', true],
+  ['6281255466600', '𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿', true],
+  ['6285172446692', '𝙻𝙴𝚅𝙸-𝙶𝙰𝙽𝚉', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -44,11 +44,11 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
 
-global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' 
+global.wm = '                「 𝙻𝙴𝚅𝙸-𝙼𝙾𝙳𝚂-𝙶𝙰𝙽𝚉 あ⁩ 」' 
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ 𝙻𝙴𝚅𝙸-𝙼𝙾𝙳𝚂-𝙶𝙰𝙽𝚉'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
@@ -57,27 +57,27 @@ global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:m
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 ꜱᴀᴅ BOT あ⁩ 」'
+global.author = '                「 𝙻𝙴𝚅𝙸-𝙼𝙾𝙳𝚂-𝙶𝙰𝙽𝚉 あ⁩ 」'
 
 // Sticker WM
 global.packname = ''
 global.author = ''
 
-global.sgc = 'https://chat.whatsapp.com/Eo0rT2MCSiWIijy7fMHlB7'
-global.sig = 'https://instagram.com/bot_whangsaf'
+global.sgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
+global.sig = 'https://instagram.com/imleviofc'
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/bot_whangsaf"
+global.urlnya = "https://instagram.com/imleviofc"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 822-8721-9167'
+global.phn = '+62 851-7244-6692'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
-global.nomorbot = '66801944580'
-global.nomorown = '6282287219167'
-global.namebot = 'Sad-Bot'
-global.nameown = 'Papah-Chan'
+global.nomorbot = '6282131369002'
+global.nomorown = '6285172446692'
+global.namebot = '𝙻𝙴𝚅𝙸-𝙼𝙾𝙳𝚂-𝙶𝙰𝙽𝚉'
+global.nameown = '𝙻𝙴𝚅𝙸-𝙶𝙰𝙽𝚉'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
